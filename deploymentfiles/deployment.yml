@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: fbcont
-          image: santoshpalla27/cicd:tagname
+          image: santoshpalla27/cicd:7
           ports:
             - containerPort: 8080
 

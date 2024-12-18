@@ -1,6 +1,6 @@
 [
   {
-    "Target": "devopshubg333/batch14:5 (ubuntu 24.04)",
+    "Target": "santoshpalla27/cicd:7 (ubuntu 24.04)",
     "Type": "ubuntu"
   },
   {
@@ -40,7 +40,7 @@
     "Type": "jar"
   },
   {
-    "Target": "usr/local/tomcat/lib/ecj-4.33.jar",
+    "Target": "usr/local/tomcat/lib/ecj-4.34.jar",
     "Type": "jar"
   },
   {
